@@ -33,7 +33,7 @@ The `en_to_jp.py` file contains code to translate English code to Japanese.
 
 To run it,
 
-1. Download the <a href="https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt" target="__blank"> mBART-50 many to many multilingual machine translation</a> model files for Pytorch and place it in `checkpoint/kanji_model`
+1. Download the <a href="https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt" target="__blank"> mBART-50 many to many multilingual machine translation</a> model files for Pytorch and place it in `checkpoint/jp_model`
 
 2. Run `en_to_jp.py` as follows:
 
