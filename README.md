@@ -16,6 +16,17 @@ The writing system used in this repository for Japanese is "Hiragana".
 
 To learn the Hiragana writing system, I've created the following notebook: <a href="hiragana_basics.ipynb" target="__blank__"> Hiragana Basics </a>
 
+## Development Progress
+
+- [x] Add Jupyter notebook showcasing Hiragana Basics
+
+![Hiragana Basics](https://github.com/PragyanSubedi/LangOfTheRisingSun/blob/main/assets/hiragana_basics.png)
+
+- [ ] Add Jupyter notebook showcasing Kanji Basics
+- [x] Add text-to-text translation for converting English text to Japanese text
+- [ ] Add speech-to-text component for converting English speech into English text
+- [ ] Add text-to-speech component for converting Japanese text to Japanese speech
+
 ## Translate English to Japanese: en_to_jp.py
 
 The `en_to_jp.py` file contains code to translate English code to Japanese.
@@ -32,11 +43,3 @@ python -m en_to_jp "cherry blossoms"
 # Output:
 cherry blossoms: ['桜']
 ```
-
-## Development Progress
-
-- [x] Add Jupyter notebook showcasing Hiragana Basics
-- [ ] Add Jupyter notebook showcasing Kanji Basics
-- [x] Add text-to-text translation for converting English text to Japanese text
-- [ ] Add speech-to-text component for converting English speech into English text
-- [ ] Add text-to-speech component for converting Japanese text to Japanese speech
