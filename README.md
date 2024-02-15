@@ -20,7 +20,7 @@ To learn the Hiragana writing system, I've created the following notebook: <a hr
 
 - [x] Add Jupyter notebook showcasing Hiragana Basics
 
-<img src ="https://github.com/PragyanSubedi/LangOfTheRisingSun/blob/main/assets/hiragana_basics.png" alt="Hiragana Basics" height="100">
+<img src ="https://github.com/PragyanSubedi/LangOfTheRisingSun/blob/main/assets/hiragana_basics.png" alt="Hiragana Basics" height="500">
 
 - [ ] Add Jupyter notebook showcasing Kanji Basics
 - [x] Add text-to-text translation for converting English text to Japanese text
