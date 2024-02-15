@@ -6,8 +6,8 @@ from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 
 
 def translate_to_japanese(input_text):
-    model = MBartForConditionalGeneration.from_pretrained("checkpoint/kanji_model")
-    tokenizer = MBart50TokenizerFast.from_pretrained("checkpoint/kanji_model")
+    model = MBartForConditionalGeneration.from_pretrained("checkpoint/jp_model")
+    tokenizer = MBart50TokenizerFast.from_pretrained("checkpoint/jp_model")
 
     print("Successfully Loaded Model")
 
