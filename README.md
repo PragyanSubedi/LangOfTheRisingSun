@@ -14,7 +14,7 @@ The writing system used in this repository for Japanese is "Hiragana".
 
 "Hiragana (ひらがな) is a Japanese syllabary, part of the Japanese writing system. It is a phonetic lettering system. The word hiragana literally means "common" or "plain" kana (originally also "easy", as contrasted with kanji)." - <a href="https://en.wikipedia.org/wiki/Hiragana" target="__blank__"> Wikipedia </a>
 
-To learn the Hiragana writing system, I've created the following notebook: <a href="hiragana_basics.ipynb" target="__blank__"> Hiragana Basics </a>
+To help learn the Hiragana writing system, I've created the following notebook: <a href="https://github.com/PragyanSubedi/LangOfTheRisingSun/blob/main/learn_the_language/hiragana_basics.ipynb" target="__blank__"> Hiragana Basics </a>
 
 ## Development Progress
 
