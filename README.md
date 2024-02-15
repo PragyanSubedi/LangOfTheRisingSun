@@ -1,4 +1,4 @@
-# LangOfTheRisingSun
+# Lang of the Rising Sun
 
 This repo houses code to learn Japanese using Machine Learning.
 
