@@ -23,14 +23,13 @@ def translate_to_japanese(input_text):
 
 
 if __name__ == "__main__":
-    # Check if the user provided text as a command line argument
     if len(sys.argv) < 2:
-        print("Please provide the text to be translated as an argument.")
+        print(
+            "Please provide the text to be translated as an argument. For example: python -m en_to_jp 'cherry blossoms' "
+        )
         sys.exit(1)
 
-    input_text = " ".join(
-        sys.argv[1:]
-    )  # Concatenate all command line arguments into a single string
+    input_text = sys.argv[1]
 
     translated_text = translate_to_japanese(input_text)
     print(translated_text)
