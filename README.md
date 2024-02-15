@@ -1,5 +1,7 @@
 # Lang of the Rising Sun
 
+![Lang of the Rising Sun](https://github.com/PragyanSubedi/LangOfTheRisingSun/blob/main/assets/cover.png)
+
 This repo houses code to learn Japanese using Machine Learning.
 
 (Disclaimer: I am a Nepalese-born individual with my first language as Nepalese and second language as English. This repository is my effort to simplify the Japanese learning process for others like me.)
