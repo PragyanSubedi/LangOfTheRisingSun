@@ -24,7 +24,7 @@ To run it,
 
 1. Download the <a href="https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt" target="__blank"> mBART-50 many to many multilingual machine translation</a> model files for Pytorch and place it in `checkpoint/kanji_model`
 
-2. Run en_to_jp.py as follows:
+2. Run `en_to_jp.py` as follows:
 
 ```
 python -m en_to_jp "cherry blossoms"
