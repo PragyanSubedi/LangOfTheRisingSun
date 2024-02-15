@@ -16,9 +16,27 @@ The writing system used in this repository for Japanese is "Hiragana".
 
 To learn the Hiragana writing system, I've created the following notebook: <a href="hiragana_basics.ipynb" target="__blank__"> Hiragana Basics </a>
 
-## To-do list
+## Translate English to Japanese: en_to_jp.py
+
+The `en_to_jp.py` file contains code to translate English code to Japanese.
+
+To run it,
+
+1. Download the <a href="https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt" target="__blank"> mBART-50 many to many multilingual machine translation</a> model files for Pytorch and place it in `checkpoint/kanji_model`
+
+2. Run en_to_jp.py as follows:
+
+```
+python -m en_to_jp "cherry blossoms"
+
+# Output:
+cherry blossoms: ['桜']
+```
+
+## Development Progress
 
 - [x] Add Jupyter notebook showcasing Hiragana Basics
+- [ ] Add Jupyter notebook showcasing Kanji Basics
+- [x] Add text-to-text translation for converting English text to Japanese text
 - [ ] Add speech-to-text component for converting English speech into English text
-- [ ] Add text-to-text translation for converting English text to Japanese text
 - [ ] Add text-to-speech component for converting Japanese text to Japanese speech
